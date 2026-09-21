@@ -1,0 +1,426 @@
+[
+  {
+    "version": "0.1",
+    "source_archive": "SuiRi-source-0.1.zip",
+    "apk": "SuiRi-0.1.apk",
+    "problem": "需要可以安装运行的个人生活助手，支持本地待办打勾和导入 WakeUp 课表。",
+    "changes": "新增、编辑、删除及勾选待办；本地保存；ICS 导入与按日期查看课程。",
+    "files": [
+      {
+        "file": "SuiRi-0.1.apk",
+        "bytes": 20884,
+        "sha256": "0566c326fb7907f9a3bb23d13f50477442014e5950678406219a26fffcb0cb06"
+      },
+      {
+        "file": "SuiRi-0.1.apk.idsig",
+        "bytes": 5519,
+        "sha256": "6b66a2a1ccb6ec8df02532d958713834c140f16501ff8f4a93ed579599e7c9d7"
+      },
+      {
+        "file": "SuiRi-source-0.1.zip",
+        "bytes": 11124,
+        "sha256": "14f2548197c73675b20b258bebcb9b2ec2dc4725d3c735c0b30d732bbeed1921"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 2990,
+        "sha256": "e19a84dfb0e0c28326db3bf622dde7c44b350a284aa0ce7efd48e5614b09ea8c"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 3786,
+        "sha256": "ec8c6f169c676ce371de5b6dd5acc96352907e92a286100ad925b5d81c98cd3f"
+      }
+    ]
+  },
+  {
+    "version": "0.2",
+    "source_archive": "SuiRi-source-0.2.zip",
+    "apk": "SuiRi-0.2.apk",
+    "problem": "需要周/月计划、桌面小组件、待办提醒、Canvas 导入、DeepSeek 问答和创建手机闹钟。",
+    "changes": "增加周/月/日历、4×4 小组件、通知与时钟接口；Canvas 手动同步；DeepSeek 问答与个人记忆。",
+    "files": [
+      {
+        "file": "SuiRi-0.2.apk",
+        "bytes": 54010,
+        "sha256": "6e9b4a4bf936bbe09774a6534bd56bd523d92e80b3cea928765e3e4be41b8633"
+      },
+      {
+        "file": "SuiRi-0.2.apk.idsig",
+        "bytes": 5519,
+        "sha256": "b65a3ca38c5388727ad53ff7f279da1802f579ee9e2bff1b345e720f0a3aaef3"
+      },
+      {
+        "file": "SuiRi-source-0.2.zip",
+        "bytes": 38157,
+        "sha256": "c427e5fd1a6f81a1003147196b157fa10a5dac5eaf515a60021de39cc462f3b5"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 6237,
+        "sha256": "0edb895ef7da4983b005c875a42ec51b2b111d57f9584c888ce65642155d1006"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 7091,
+        "sha256": "9c4a658f2002a49e019a3a454f82ff8741624ae6c727d5e09c1196fdf7ce7033"
+      }
+    ]
+  },
+  {
+    "version": "0.3",
+    "source_archive": "SuiRi-source-0.3.zip",
+    "apk": "SuiRi-0.3.apk",
+    "problem": "月历缺少安排标注；需要当前学期 Canvas 筛选、自动刷新、截止前提醒和从对话学习习惯。",
+    "changes": "月历标记；Canvas 学期筛选与自动刷新、临期重点提醒；对话学习记忆及升级日志。",
+    "files": [
+      {
+        "file": "SuiRi-0.3.apk",
+        "bytes": 74490,
+        "sha256": "1de5b5e62e425372489b43ca8ecb2c342739f5bfb2afe3d9d1e73b3bfd42376e"
+      },
+      {
+        "file": "SuiRi-0.3.apk.idsig",
+        "bytes": 5519,
+        "sha256": "e020fd3df082149613a2ac826c28eafb8fc84ac6d0511c33ffcb4fab1c0958fc"
+      },
+      {
+        "file": "SuiRi-source-0.3.zip",
+        "bytes": 59282,
+        "sha256": "39c8e63502301de21638ae6682d3917bcf4505236a50f7ebaf7149d00d2e529c"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 8161,
+        "sha256": "fe4ded66fd5e0890ba2e6988b5048e73fe9fdb169cc4e68828c46ece2c237eb0"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 1963,
+        "sha256": "aa22a0951aed1e35ce07e1edb0df11d9b2dda4800c88184f0c4f560403616282"
+      },
+      {
+        "file": "随日0.3-更新说明.md",
+        "bytes": 1220,
+        "sha256": "84e6be48a51e9c4372dd0a94b71e339681ffa29e9ad968fb82340c03144e5d06"
+      }
+    ]
+  },
+  {
+    "version": "0.4",
+    "source_archive": "SuiRi-source-0.4.zip",
+    "apk": "SuiRi-0.4.apk",
+    "problem": "聊天操作繁琐；需要自动任务操作、持久聊天与精简习惯记忆、附件输入输出及思考强度选择。",
+    "changes": "聊天气泡与流式回答；历史会话、精简习惯提示、思考选项；自动增删改任务、附件与本地备份。",
+    "files": [
+      {
+        "file": "SuiRi-0.4.apk",
+        "bytes": 103162,
+        "sha256": "d29c97fdd4a60335caceecbaf5b65c7b0bab23c67b3d1f5c4f6ca958c6125a65"
+      },
+      {
+        "file": "SuiRi-0.4.apk.idsig",
+        "bytes": 5519,
+        "sha256": "7a82bf3a03e0c198828922e80ea9307735ee673def48f30f1ea2d5f247ae9028"
+      },
+      {
+        "file": "SuiRi-source-0.4.zip",
+        "bytes": 87694,
+        "sha256": "bc0ba3a060a6b06be9534d65a6f9aa270a04ac7456ff118592e0961a42d41a62"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 9794,
+        "sha256": "a9592af6e7dda4fd066b012221f34b8af7fd01db712301ae03abbbedde09f4d8"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 2181,
+        "sha256": "80ee2e3f94bb4c8113a85a230d400431bfd67dddd728fb701a3f8011d15d6207"
+      },
+      {
+        "file": "随日0.4-更新说明.md",
+        "bytes": 1411,
+        "sha256": "99e457174658e41bf390ddc149d59ad5c6ef2363be66e4a36b6b8990fbcf2535"
+      }
+    ]
+  },
+  {
+    "version": "1.0",
+    "source_archive": "Nier-source-1.0.zip",
+    "apk": "Nier-1.0.apk",
+    "problem": "界面风格简陋；需要 Saber 浮动助手、九种表情、4×5 小组件和独立天气提醒。",
+    "changes": "深蓝金色界面、浮动对话、九种表情；4×5 天气小组件；和风天气及本地 Saber 提醒。",
+    "files": [
+      {
+        "file": "Nier-1.0.apk",
+        "bytes": 1344492,
+        "sha256": "00b462b4fc1381e28ec9583367ca7e3320d3873f04c2f0dbc06bae501168154f"
+      },
+      {
+        "file": "Nier-1.0.apk.idsig",
+        "bytes": 17807,
+        "sha256": "0a4c9900044c509799a51471fe46b4b69c8994746bf47c6847601b0bff7f3f72"
+      },
+      {
+        "file": "Nier-source-1.0.zip",
+        "bytes": 1303437,
+        "sha256": "f5e33b3ec89b6429cc584214d44cab5913e729f736d37fa55e0e79f6ad7b436c"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 12684,
+        "sha256": "ba3cab4e1418358ee4c3aa30ec53aeecbd783a7a60854271c5dfb0a145f51349"
+      },
+      {
+        "file": "尼尔机械济援1.0-更新与天气配置.md",
+        "bytes": 3378,
+        "sha256": "5019844bd7fc602a182796c1d94b3b486ef366b780358bf8617b6b81e9958864"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 4149,
+        "sha256": "ea5f20b72ff59db3e97eae029f13c82ab9c82684dd3e192473cb6c7138f7ff54"
+      }
+    ]
+  },
+  {
+    "version": "1.1",
+    "source_archive": "Nier-source-1.1.zip",
+    "apk": "尼尔机械济援-1.1.apk",
+    "problem": "应用名称显示与预期不一致；需课程上下课状态、直观完整课表、小组件问答入口及全天天气风险提示。",
+    "changes": "明确启动名称；加入完整课表和课程状态；组件空白与头像入口；白天/夜间天气风险规则。",
+    "files": [
+      {
+        "file": "Nier-source-1.1.zip",
+        "bytes": 1309838,
+        "sha256": "e6a6f0d650f95d410ba494eaa00b9aa1c468994a7a8a85c37e9f17b780cc1d42"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 12684,
+        "sha256": "ba3cab4e1418358ee4c3aa30ec53aeecbd783a7a60854271c5dfb0a145f51349"
+      },
+      {
+        "file": "尼尔机械济援-1.1.apk",
+        "bytes": 1352686,
+        "sha256": "4ee1e8708751edb4e26502b23e5f59e83ec0f0109aa5438b3bf30dc785c52b52"
+      },
+      {
+        "file": "尼尔机械济援-1.1.apk.idsig",
+        "bytes": 17807,
+        "sha256": "988276d0fb52f49dfc69f347adc3e1e74f94ba1626949dc0ff00f103c6f4eada"
+      },
+      {
+        "file": "尼尔机械济援1.1-更新说明.md",
+        "bytes": 2297,
+        "sha256": "f869b9735960386bbfa083180c0d4e1ec9f53c56c39367e94c80c495a9bb41e2"
+      },
+      {
+        "file": "尼尔机械济援1.1.1-更新说明.md",
+        "bytes": 515,
+        "sha256": "917699dcfe3d8ed30f8e517d8a0c88819011237f81697de6c4e8974297305746"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 3088,
+        "sha256": "bd718c925cc66fca6b188d27ecd6959e29312271cfc7579ff34b82d7cbc082ee"
+      }
+    ]
+  },
+  {
+    "version": "1.1.1",
+    "source_archive": "Nier-source-1.1.1.zip",
+    "apk": "尼尔机械济援-1.1.1.apk",
+    "problem": "用户确认新的 Saber 人格提示词，需要正式替换并保持原任务操作协议。",
+    "changes": "启用确认的人格提示词，完整聊天与浮动助手共用；历史消息不重写。",
+    "files": [
+      {
+        "file": "Nier-source-1.1.1.zip",
+        "bytes": 1310801,
+        "sha256": "0569f5509714895b584eebf7aef00ce76e5faf9431200b1430da1506c772b952"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 12684,
+        "sha256": "ba3cab4e1418358ee4c3aa30ec53aeecbd783a7a60854271c5dfb0a145f51349"
+      },
+      {
+        "file": "尼尔机械济援-1.1.1.apk",
+        "bytes": 1352687,
+        "sha256": "b3431404dfdbe9274aa024968d101880859282aab8cda9a751d9b6500a089aae"
+      },
+      {
+        "file": "尼尔机械济援-1.1.1.apk.idsig",
+        "bytes": 17807,
+        "sha256": "436cbba4eb19dbb4b06adbbe62d6aae99b762cb690cb4242698922541b1e3762"
+      },
+      {
+        "file": "尼尔机械济援1.1.1-更新说明.md",
+        "bytes": 515,
+        "sha256": "917699dcfe3d8ed30f8e517d8a0c88819011237f81697de6c4e8974297305746"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 1219,
+        "sha256": "1ec76c681d1fd5421590c415392ff919b3241185c77d9b5435262c5b0d32458e"
+      }
+    ]
+  },
+  {
+    "version": "1.1.2",
+    "source_archive": "Nier-source-1.1.2.zip",
+    "apk": "尼尔机械济援-1.1.2.apk",
+    "problem": "二级界面方正且说明小字过多；需头像与疲惫表情调整、月历课程数量恢复、隐藏已下课与已完成事项。",
+    "changes": "称呼改为御主；头像和疲惫图更新；圆角弹窗、设置折叠、精简文案；月历显示课程数；组件过滤结束课程和完成任务。",
+    "files": [
+      {
+        "file": "Nier-source-1.1.2.zip",
+        "bytes": 4150569,
+        "sha256": "29737f55d15cf5283e94f636b4df2c1114b716aca52e772c5039465dba0d6dc4"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 12684,
+        "sha256": "ba3cab4e1418358ee4c3aa30ec53aeecbd783a7a60854271c5dfb0a145f51349"
+      },
+      {
+        "file": "尼尔机械济援-1.1.2.apk",
+        "bytes": 4023591,
+        "sha256": "745b8f1eacd6140a2089dedc6e4b91eef3f6bb835fc2fe02eef5b47cd78223ce"
+      },
+      {
+        "file": "尼尔机械济援-1.1.2.apk.idsig",
+        "bytes": 38287,
+        "sha256": "4b1a3d2fe44aa89c50ac182055d29f49451db695bf653eb5140203ae0f35d651"
+      },
+      {
+        "file": "尼尔机械济援1.1.2-更新说明.md",
+        "bytes": 1255,
+        "sha256": "316b26ac839d557e649c83d532ffcb35d708009cd4f6ae6accab4373ce05182e"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 2082,
+        "sha256": "b5fd0d4f1debd214808ead5a4677d541c414d5ceb681b5020eabc549bcf61062"
+      }
+    ]
+  },
+  {
+    "version": "1.1.3",
+    "source_archive": "Nier-source-1.1.3.zip",
+    "apk": "saber喵-1.1.3.apk",
+    "problem": "需要更名 saber喵 和猫耳 Logo；称呼改为亲爱的master；加入定位及上海对照天气、整理助手设置、导出 PPT。",
+    "changes": "更名 saber喵 和猫耳 Logo；亲爱的master称呼；前台定位及上海对照天气；历史收入设置；PPTX 输出。",
+    "files": [
+      {
+        "file": "Nier-source-1.1.3.zip",
+        "bytes": 4644699,
+        "sha256": "f11668ea2defc6fbda5b8cf1b34ff61de64e77aba8e08b7d8913f6676752abbc"
+      },
+      {
+        "file": "saber喵-1.1.3.apk",
+        "bytes": 4531576,
+        "sha256": "f25c039545909d75bbec989e27ea180b99db56fb3564d873d3b8f5d524470765"
+      },
+      {
+        "file": "saber喵-1.1.3.apk.idsig",
+        "bytes": 42383,
+        "sha256": "0b49131218c1433b48bd9751342404df239d5ce53deffff85355bf62e56d9638"
+      },
+      {
+        "file": "saber喵1.1.3-更新说明.md",
+        "bytes": 1975,
+        "sha256": "649a48619630c770a1801d7ac75fb9fb2b4acecd5f90f782a3f8da5e77db5ec7"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 12927,
+        "sha256": "bff1533ae0c3675dbd1de0a7a401d1844fdb97d2f40362840e42f8aa212839dd"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 2777,
+        "sha256": "6062274aa50a8e5368e8fd0f3bb307afaec32b0686a4e45dce01b8286f333876"
+      }
+    ]
+  },
+  {
+    "version": "1.1.4",
+    "source_archive": "saber-source-1.1.4.zip",
+    "apk": "saber喵-1.1.4.apk",
+    "problem": "用户反馈今日/本周待办缺失，小组件来回切换后消失，旧称呼仍出现，安装包名称与 Logo 未更新。",
+    "changes": "个人待办→课程→Canvas；补回未设日期和逾期事项；组件完整快照；助手旧称呼展示修正；明确启动图标和安装包名。",
+    "files": [
+      {
+        "file": "saber-source-1.1.4.zip",
+        "bytes": 4644870,
+        "sha256": "96e4b69d7808bb75afb3aa242464fb13bfc07271a604a851b46a4e2ad0350755"
+      },
+      {
+        "file": "saber喵-1.1.4.apk",
+        "bytes": 4531578,
+        "sha256": "61d405b8bb9103dbcba91cb9f93183f32211212e244cfd9095154c81a2dd122d"
+      },
+      {
+        "file": "saber喵-1.1.4.apk.idsig",
+        "bytes": 42383,
+        "sha256": "629c2440ceec80eb75eb24278a595903581230bd198dcf9d367ec2585ff6bc60"
+      },
+      {
+        "file": "saber喵1.1.4-更新说明.md",
+        "bytes": 968,
+        "sha256": "c58d7e17bd82b29b33bd02126c3808fac348590e52541dfa3f9e1bd02d640b17"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 13255,
+        "sha256": "dc1fc2da74c06fcd6199090f4194ed3828f325c26e4d86bcf5e31c3eefb80535"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 1771,
+        "sha256": "3d490798203917f5525596253d498d57d5bcd984cff6972f02eb5c857593ee24"
+      }
+    ]
+  },
+  {
+    "version": "1.1.5",
+    "source_archive": "saber-source-1.1.5.zip",
+    "apk": "saber喵-1.1.5.apk",
+    "problem": "用户反馈小组件空白处无法打开应用，并要求本周改为未来7天。",
+    "changes": "列表按内容占高并独立绑定空白入口；应用与组件改为今天至今天+6天；保留逾期及未设日期事项。",
+    "files": [
+      {
+        "file": "saber-source-1.1.5.zip",
+        "bytes": 4645816,
+        "sha256": "0e18f98b9c0c3fd949130026188dff7148e7a58a04a46f916027f496b3ffb3d6"
+      },
+      {
+        "file": "saber喵-1.1.5.apk",
+        "bytes": 4531578,
+        "sha256": "e4a47fab1b45a7378441a31ad8b9328f0addb92156cbb4092b3523e16aeabf32"
+      },
+      {
+        "file": "saber喵-1.1.5.apk.idsig",
+        "bytes": 42383,
+        "sha256": "cf466d3f559936e640954e35c3ec2c2696e99d601241319be25fa00a1420b1c6"
+      },
+      {
+        "file": "saber喵1.1.5-更新说明.md",
+        "bytes": 738,
+        "sha256": "6fde56f464ddbdb8fd1a8ee67ec39e7f9fbf34611e29b256120b94bd1f34d880"
+      },
+      {
+        "file": "原版README.md",
+        "bytes": 13416,
+        "sha256": "d5b70049a1b8cf399dd6f9b52af856a230e09141e0849ea2fb0aa247d7963d3d"
+      },
+      {
+        "file": "版本记录.md",
+        "bytes": 1471,
+        "sha256": "5d35ae2d953530195c82b779e488c7050ec30b7dd77bff89361adf2d13f1011f"
+      }
+    ]
+  }
+]
