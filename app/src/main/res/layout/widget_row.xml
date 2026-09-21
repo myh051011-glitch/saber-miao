@@ -1,0 +1,7 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="54dp" android:gravity="center_vertical">
+ <TextView android:id="@+id/row_done" android:layout_width="44dp" android:layout_height="match_parent" android:text="○" android:gravity="center" android:textColor="#E7C681" android:textSize="26sp" android:contentDescription="完成待办" />
+ <LinearLayout android:id="@+id/row_open" android:layout_width="0dp" android:layout_weight="1" android:layout_height="match_parent" android:orientation="vertical" android:gravity="center_vertical">
+  <TextView android:id="@+id/row_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:ellipsize="end" android:textColor="#F4F0E8" android:textSize="15sp" />
+  <TextView android:id="@+id/row_detail" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:ellipsize="end" android:textColor="#B4C5E1" android:textSize="12sp" />
+ </LinearLayout>
+</LinearLayout>

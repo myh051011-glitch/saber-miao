@@ -1,0 +1,42 @@
+# Android and build output
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+.cxx/
+.externalNativeBuild/
+work/
+*.apk
+*.aab
+*.apks
+*.dex
+*.class
+
+# Signing credentials and local API configuration
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+keystore.properties
+signing.properties
+secrets.properties
+secrets.json
+
+# Local user data and exports
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.ics
+backups/
+exports/
+*.log
+.DS_Store
+Thumbs.db
